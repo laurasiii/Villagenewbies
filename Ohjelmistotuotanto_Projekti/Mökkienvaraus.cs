@@ -17,5 +17,11 @@ namespace Ohjelmistotuotanto_Projekti
             InitializeComponent();
         }
 
+        private void Mökkienvaraus_Load(object sender, EventArgs e)
+        {
+            // TODO: This line of code loads data into the 'mokkiDataset.mokki' table. You can move, or remove it, as needed.
+            this.mokkiTableAdapter.Fill(this.mokkiDataset.mokki);
+
+        }
     }
 }
