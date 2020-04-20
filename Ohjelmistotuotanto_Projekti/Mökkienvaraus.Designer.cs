@@ -90,103 +90,92 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(4, 16);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(3, 13);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(49, 17);
+            this.label1.Size = new System.Drawing.Size(37, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "Sijainti";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(145, 16);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Location = new System.Drawing.Point(109, 13);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(43, 17);
+            this.label2.Size = new System.Drawing.Size(34, 13);
             this.label2.TabIndex = 1;
             this.label2.Text = "Alkaa";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(421, 16);
-            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Location = new System.Drawing.Point(316, 13);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(55, 17);
+            this.label3.Size = new System.Drawing.Size(42, 13);
             this.label3.TabIndex = 2;
             this.label3.Text = "Päättyy";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(697, 16);
-            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label4.Location = new System.Drawing.Point(523, 13);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(95, 17);
+            this.label4.Size = new System.Drawing.Size(72, 13);
             this.label4.TabIndex = 3;
             this.label4.Text = "Henkilomäärä";
             // 
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(7, 15);
-            this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label10.Location = new System.Drawing.Point(5, 12);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(64, 17);
+            this.label10.Size = new System.Drawing.Size(48, 13);
             this.label10.TabIndex = 9;
             this.label10.Text = "Varustus";
             // 
             // label14
             // 
             this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(4, 14);
-            this.label14.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label14.Location = new System.Drawing.Point(3, 11);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(97, 17);
+            this.label14.Size = new System.Drawing.Size(73, 13);
             this.label14.TabIndex = 13;
             this.label14.Text = "Majoitustyyppi";
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(8, 39);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox1.Location = new System.Drawing.Point(6, 32);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(132, 22);
+            this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 14;
             // 
             // dateTimePicker1
             // 
-            this.dateTimePicker1.Location = new System.Drawing.Point(149, 41);
-            this.dateTimePicker1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dateTimePicker1.Location = new System.Drawing.Point(112, 33);
             this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(267, 22);
+            this.dateTimePicker1.Size = new System.Drawing.Size(201, 20);
             this.dateTimePicker1.TabIndex = 15;
             // 
             // dateTimePicker2
             // 
-            this.dateTimePicker2.Location = new System.Drawing.Point(425, 41);
-            this.dateTimePicker2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dateTimePicker2.Location = new System.Drawing.Point(319, 33);
             this.dateTimePicker2.Name = "dateTimePicker2";
-            this.dateTimePicker2.Size = new System.Drawing.Size(265, 22);
+            this.dateTimePicker2.Size = new System.Drawing.Size(200, 20);
             this.dateTimePicker2.TabIndex = 16;
             // 
             // comboBox1
             // 
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(700, 41);
-            this.comboBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.comboBox1.Location = new System.Drawing.Point(525, 33);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(160, 24);
+            this.comboBox1.Size = new System.Drawing.Size(121, 21);
             this.comboBox1.TabIndex = 17;
             // 
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(8, 44);
-            this.checkBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.checkBox1.Location = new System.Drawing.Point(6, 36);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(66, 21);
+            this.checkBox1.Size = new System.Drawing.Size(54, 17);
             this.checkBox1.TabIndex = 18;
             this.checkBox1.Text = "mökki";
             this.checkBox1.UseVisualStyleBackColor = true;
@@ -194,10 +183,9 @@
             // checkBox2
             // 
             this.checkBox2.AutoSize = true;
-            this.checkBox2.Location = new System.Drawing.Point(8, 73);
-            this.checkBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.checkBox2.Location = new System.Drawing.Point(6, 59);
             this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(77, 21);
+            this.checkBox2.Size = new System.Drawing.Size(60, 17);
             this.checkBox2.TabIndex = 19;
             this.checkBox2.Text = "paritalo";
             this.checkBox2.UseVisualStyleBackColor = true;
@@ -205,10 +193,9 @@
             // checkBox3
             // 
             this.checkBox3.AutoSize = true;
-            this.checkBox3.Location = new System.Drawing.Point(100, 44);
-            this.checkBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.checkBox3.Location = new System.Drawing.Point(75, 36);
             this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(102, 21);
+            this.checkBox3.Size = new System.Drawing.Size(80, 17);
             this.checkBox3.TabIndex = 20;
             this.checkBox3.Text = "omakotitalo";
             this.checkBox3.UseVisualStyleBackColor = true;
@@ -216,10 +203,9 @@
             // checkBox4
             // 
             this.checkBox4.AutoSize = true;
-            this.checkBox4.Location = new System.Drawing.Point(100, 73);
-            this.checkBox4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.checkBox4.Location = new System.Drawing.Point(75, 59);
             this.checkBox4.Name = "checkBox4";
-            this.checkBox4.Size = new System.Drawing.Size(92, 21);
+            this.checkBox4.Size = new System.Drawing.Size(72, 17);
             this.checkBox4.TabIndex = 21;
             this.checkBox4.Text = "huoneisto";
             this.checkBox4.UseVisualStyleBackColor = true;
@@ -227,10 +213,9 @@
             // checkBox5
             // 
             this.checkBox5.AutoSize = true;
-            this.checkBox5.Location = new System.Drawing.Point(11, 44);
-            this.checkBox5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.checkBox5.Location = new System.Drawing.Point(8, 36);
             this.checkBox5.Name = "checkBox5";
-            this.checkBox5.Size = new System.Drawing.Size(69, 21);
+            this.checkBox5.Size = new System.Drawing.Size(55, 17);
             this.checkBox5.TabIndex = 22;
             this.checkBox5.Text = "sauna";
             this.checkBox5.UseVisualStyleBackColor = true;
@@ -243,10 +228,9 @@
             this.panel1.Controls.Add(this.checkBox4);
             this.panel1.Controls.Add(this.checkBox2);
             this.panel1.Controls.Add(this.checkBox3);
-            this.panel1.Location = new System.Drawing.Point(16, 111);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel1.Location = new System.Drawing.Point(12, 90);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(221, 123);
+            this.panel1.Size = new System.Drawing.Size(166, 100);
             this.panel1.TabIndex = 23;
             // 
             // panel2
@@ -260,10 +244,9 @@
             this.panel2.Controls.Add(this.dateTimePicker2);
             this.panel2.Controls.Add(this.label3);
             this.panel2.Controls.Add(this.label4);
-            this.panel2.Location = new System.Drawing.Point(16, 15);
-            this.panel2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel2.Location = new System.Drawing.Point(12, 12);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(878, 88);
+            this.panel2.Size = new System.Drawing.Size(659, 72);
             this.panel2.TabIndex = 22;
             // 
             // panel3
@@ -274,19 +257,17 @@
             this.panel3.Controls.Add(this.checkBox7);
             this.panel3.Controls.Add(this.checkBox5);
             this.panel3.Controls.Add(this.checkBox6);
-            this.panel3.Location = new System.Drawing.Point(245, 111);
-            this.panel3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel3.Location = new System.Drawing.Point(184, 90);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(209, 123);
+            this.panel3.Size = new System.Drawing.Size(157, 100);
             this.panel3.TabIndex = 24;
             // 
             // checkBox8
             // 
             this.checkBox8.AutoSize = true;
-            this.checkBox8.Location = new System.Drawing.Point(123, 73);
-            this.checkBox8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.checkBox8.Location = new System.Drawing.Point(92, 59);
             this.checkBox8.Name = "checkBox8";
-            this.checkBox8.Size = new System.Drawing.Size(57, 21);
+            this.checkBox8.Size = new System.Drawing.Size(47, 17);
             this.checkBox8.TabIndex = 27;
             this.checkBox8.Text = "WiFi";
             this.checkBox8.UseVisualStyleBackColor = true;
@@ -294,10 +275,9 @@
             // checkBox7
             // 
             this.checkBox7.AutoSize = true;
-            this.checkBox7.Location = new System.Drawing.Point(123, 44);
-            this.checkBox7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.checkBox7.Location = new System.Drawing.Point(92, 36);
             this.checkBox7.Name = "checkBox7";
-            this.checkBox7.Size = new System.Drawing.Size(64, 21);
+            this.checkBox7.Size = new System.Drawing.Size(53, 17);
             this.checkBox7.TabIndex = 26;
             this.checkBox7.Text = "takka";
             this.checkBox7.UseVisualStyleBackColor = true;
@@ -305,10 +285,9 @@
             // checkBox6
             // 
             this.checkBox6.AutoSize = true;
-            this.checkBox6.Location = new System.Drawing.Point(11, 73);
-            this.checkBox6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.checkBox6.Location = new System.Drawing.Point(8, 59);
             this.checkBox6.Name = "checkBox6";
-            this.checkBox6.Size = new System.Drawing.Size(63, 21);
+            this.checkBox6.Size = new System.Drawing.Size(50, 17);
             this.checkBox6.TabIndex = 25;
             this.checkBox6.Text = "ranta";
             this.checkBox6.UseVisualStyleBackColor = true;
@@ -330,11 +309,10 @@
             this.alvDataGridViewTextBoxColumn,
             this.makuuhuoneidenmaaraDataGridViewTextBoxColumn});
             this.dataGridView1.DataSource = this.mokkiBindingSource;
-            this.dataGridView1.Location = new System.Drawing.Point(16, 254);
-            this.dataGridView1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dataGridView1.Location = new System.Drawing.Point(12, 206);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
-            this.dataGridView1.Size = new System.Drawing.Size(1035, 286);
+            this.dataGridView1.Size = new System.Drawing.Size(776, 232);
             this.dataGridView1.TabIndex = 25;
             // 
             // mokkiidDataGridViewTextBoxColumn
@@ -437,10 +415,9 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(903, 15);
-            this.button3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button3.Location = new System.Drawing.Point(672, 96);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(148, 54);
+            this.button3.Size = new System.Drawing.Size(111, 44);
             this.button3.TabIndex = 28;
             this.button3.Text = "Varaa";
             this.button3.UseVisualStyleBackColor = true;
@@ -455,19 +432,17 @@
             this.panel4.Controls.Add(this.checkBox10);
             this.panel4.Controls.Add(this.checkBox9);
             this.panel4.Controls.Add(this.label5);
-            this.panel4.Location = new System.Drawing.Point(463, 111);
-            this.panel4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel4.Location = new System.Drawing.Point(347, 90);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(198, 123);
+            this.panel4.Size = new System.Drawing.Size(149, 100);
             this.panel4.TabIndex = 30;
             // 
             // checkBox14
             // 
             this.checkBox14.AutoSize = true;
-            this.checkBox14.Location = new System.Drawing.Point(109, 70);
-            this.checkBox14.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.checkBox14.Location = new System.Drawing.Point(82, 57);
             this.checkBox14.Name = "checkBox14";
-            this.checkBox14.Size = new System.Drawing.Size(46, 21);
+            this.checkBox14.Size = new System.Drawing.Size(38, 17);
             this.checkBox14.TabIndex = 32;
             this.checkBox14.Text = "+6";
             this.checkBox14.UseVisualStyleBackColor = true;
@@ -475,10 +450,9 @@
             // checkBox13
             // 
             this.checkBox13.AutoSize = true;
-            this.checkBox13.Location = new System.Drawing.Point(109, 44);
-            this.checkBox13.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.checkBox13.Location = new System.Drawing.Point(82, 36);
             this.checkBox13.Name = "checkBox13";
-            this.checkBox13.Size = new System.Drawing.Size(38, 21);
+            this.checkBox13.Size = new System.Drawing.Size(32, 17);
             this.checkBox13.TabIndex = 32;
             this.checkBox13.Text = "5";
             this.checkBox13.UseVisualStyleBackColor = true;
@@ -486,10 +460,9 @@
             // checkBox12
             // 
             this.checkBox12.AutoSize = true;
-            this.checkBox12.Location = new System.Drawing.Point(59, 70);
-            this.checkBox12.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.checkBox12.Location = new System.Drawing.Point(44, 57);
             this.checkBox12.Name = "checkBox12";
-            this.checkBox12.Size = new System.Drawing.Size(38, 21);
+            this.checkBox12.Size = new System.Drawing.Size(32, 17);
             this.checkBox12.TabIndex = 34;
             this.checkBox12.Text = "4";
             this.checkBox12.UseVisualStyleBackColor = true;
@@ -497,10 +470,9 @@
             // checkBox11
             // 
             this.checkBox11.AutoSize = true;
-            this.checkBox11.Location = new System.Drawing.Point(59, 44);
-            this.checkBox11.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.checkBox11.Location = new System.Drawing.Point(44, 36);
             this.checkBox11.Name = "checkBox11";
-            this.checkBox11.Size = new System.Drawing.Size(38, 21);
+            this.checkBox11.Size = new System.Drawing.Size(32, 17);
             this.checkBox11.TabIndex = 33;
             this.checkBox11.Text = "3";
             this.checkBox11.UseVisualStyleBackColor = true;
@@ -508,10 +480,9 @@
             // checkBox10
             // 
             this.checkBox10.AutoSize = true;
-            this.checkBox10.Location = new System.Drawing.Point(8, 73);
-            this.checkBox10.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.checkBox10.Location = new System.Drawing.Point(6, 59);
             this.checkBox10.Name = "checkBox10";
-            this.checkBox10.Size = new System.Drawing.Size(38, 21);
+            this.checkBox10.Size = new System.Drawing.Size(32, 17);
             this.checkBox10.TabIndex = 32;
             this.checkBox10.Text = "2";
             this.checkBox10.UseVisualStyleBackColor = true;
@@ -519,10 +490,9 @@
             // checkBox9
             // 
             this.checkBox9.AutoSize = true;
-            this.checkBox9.Location = new System.Drawing.Point(8, 44);
-            this.checkBox9.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.checkBox9.Location = new System.Drawing.Point(6, 36);
             this.checkBox9.Name = "checkBox9";
-            this.checkBox9.Size = new System.Drawing.Size(38, 21);
+            this.checkBox9.Size = new System.Drawing.Size(32, 17);
             this.checkBox9.TabIndex = 31;
             this.checkBox9.Text = "1";
             this.checkBox9.UseVisualStyleBackColor = true;
@@ -530,10 +500,9 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(4, 16);
-            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label5.Location = new System.Drawing.Point(3, 13);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(161, 17);
+            this.label5.Size = new System.Drawing.Size(122, 13);
             this.label5.TabIndex = 0;
             this.label5.Text = "Makuuhuoneiden määrä";
             // 
@@ -542,27 +511,24 @@
             this.panel5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel5.Controls.Add(this.textBox2);
             this.panel5.Controls.Add(this.label6);
-            this.panel5.Location = new System.Drawing.Point(669, 111);
-            this.panel5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel5.Location = new System.Drawing.Point(502, 90);
             this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(225, 123);
+            this.panel5.Size = new System.Drawing.Size(169, 100);
             this.panel5.TabIndex = 31;
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(4, 44);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox2.Location = new System.Drawing.Point(3, 36);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(203, 22);
+            this.textBox2.Size = new System.Drawing.Size(153, 20);
             this.textBox2.TabIndex = 1;
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(4, 15);
-            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label6.Location = new System.Drawing.Point(3, 12);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(68, 17);
+            this.label6.Size = new System.Drawing.Size(53, 13);
             this.label6.TabIndex = 0;
             this.label6.Text = "Max hinta";
             // 
@@ -572,9 +538,9 @@
             // 
             // Mökkienvaraus
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1067, 554);
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.panel5);
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.button3);
@@ -582,7 +548,6 @@
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Mökkienvaraus";
             this.Text = "Mökkienvaraus";
             this.Load += new System.EventHandler(this.Mökkienvaraus_Load);
