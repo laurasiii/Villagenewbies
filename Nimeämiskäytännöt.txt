@@ -1,0 +1,6 @@
+button = btnNimi
+textbox = tbNimi
+datagrid = dgNImi
+checkbox = cbNimi
+Combobox = cmbNimi
+datetimepicker = dtpNimi(alkaa/päättyy)
